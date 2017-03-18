@@ -3,8 +3,9 @@
 - 矢量图(VectorDrawable)
 - 动画(AnimatedVectorDrawable)
 
-##Preview
-
+## Preview
+![](http://i1.piimg.com/567571/ed9afb2ee8262743.gif)
+![](http://p1.bqimg.com/567571/545d38cb02374935.gif)
 
 Reference
 
